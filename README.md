@@ -5,7 +5,8 @@ int main() {
     int arr[5] = {10, 20, 30, 40, 50};
     int *ptr;
 
-    ptr = arr;  
+    ptr = arr; 
+    printf("_25331a05d8_\n");
 
     printf("Pointer Arithmetic:\n");
 
